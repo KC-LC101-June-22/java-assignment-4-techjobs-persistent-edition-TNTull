@@ -1,5 +1,5 @@
 -- Part 1: Test it with SQL
-/* table: job columns: id, name, employer */
+/* table: job columns: Integer id, VARCHAR name, VARCHAR employer, VARCHAR skill */
 
 -- Part 2: Test it with SQL
 SELECT name
